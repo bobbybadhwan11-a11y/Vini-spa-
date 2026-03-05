@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vini Spa</title>
+
+<style>
+body{
+font-family:Arial;
+margin:0;
+background:linear-gradient(120deg,#ff9a9e,#fad0c4,#a18cd1);
+text-align:center;
+}
+
+header{
+background:#6a11cb;
+color:white;
+padding:35px;
+font-size:32px;
+}
+
+.card{
+background:white;
+margin:40px auto;
+padding:25px;
+max-width:350px;
+border-radius:15px;
+box-shadow:0 10px 20px rgba(0,0,0,0.2);
+}
+
+.price{
+font-size:30px;
+color:#ff4d6d;
+font-weight:bold;
+}
+
+.button{
+display:inline-block;
+margin-top:15px;
+padding:14px 25px;
+background:#25D366;
+color:white;
+text-decoration:none;
+border-radius:10px;
+font-size:18px;
+}
+
+.call{
+display:inline-block;
+margin-top:10px;
+padding:14px 25px;
+background:#ff4d6d;
+color:white;
+text-decoration:none;
+border-radius:10px;
+font-size:18px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>🌸 Vini Spa 🌸</header>
+
+<div class="card">
+
+<h2>Full Body Massage</h2>
+
+<p>Session Time: 45 Minutes</p>
+
+<p>Oil Massage / Cream Massage</p>
+
+<div class="price">₹799</div>
+
+<a class="button" href="https://wa.me/916280059929">
+Book on WhatsApp
+</a>
+
+<br>
+
+<a class="call" href="tel:6280059929">
+Call Now
+</a>
+
+</div>
+
+</body>
+</html>
